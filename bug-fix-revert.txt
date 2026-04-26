@@ -1,0 +1,5 @@
+Task 8: Pull Request
+
+A pull request was created for bug-fix-typo branch.
+The pull request was successfully merged into main branch.
+Changes are visible in the repository.
