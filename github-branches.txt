@@ -1,0 +1,7 @@
+Task 9: GitHub Branches
+
+Branches in repository:
+- main
+- bug-fix-typo
+
+Both branches are present and working.
